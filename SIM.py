@@ -197,7 +197,7 @@ else:
                 "Bibit (Batang)": jumlah_bibit,
                 "Total Harga Bibit": jumlah_bibit * HARGA_BIBIT,   #Pastikan dihitung
                 "Pupuk (Kantong)": jumlah_pupuk,
-                "Total Harga Pupuk": pupuk * HARGA_PUPUK,   #Pastikan dihitung
+                "Total Harga Pupuk": jumlah_pupuk * HARGA_PUPUK,   #Pastikan dihitung
                 "Biaya Perawatan": biaya_perawatan,
                 "Biaya Tenaga Kerja": biaya_tenaga_kerja,
                 "Total Biaya": total
